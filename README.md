@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I’m Rudolf
 
-<!--
-**Rudolf903/Rudolf903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m currently pursuing a Diploma in Network Systems at Boston City Campus  
+💻 I’m passionate about cybersecurity, cloud computing & IT auditing  
+📁 This profile showcases my projects: from cloud labs to ethical hacking  
+🌐 Check out my portfolio: [rudolf903.github.io](https://rudolf903.github.io)
 
-Here are some ideas to get you started:
+## 🔧 Tools & Technologies
+- **Cloud:** Azure, GitHub Pages
+- **Security:** TryHackMe, Hack The Box
+- **Languages:** Java, Bash
+- **Networking:** Cisco, VirtualBox, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- 🔐 [Cloud Lab Projects](https://github.com/Rudolf903/cloud-lab-projects)
+- 💻 [HackersRank](https://rudolf903.github.io)
+
+## 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/khutso-mabelane-1a1703278)
+- [GitHub](https://github.com/Rudolf903)
