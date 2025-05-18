@@ -14,6 +14,7 @@
 ## 📌 Featured Projects
 - 🔐 [Cloud Lab Projects](https://github.com/Rudolf903/cloud-lab-projects) Hands-on experiments exploring cloud technologies, networking, and infrastructure concepts.
 - 💻 [HackersRank](https://rudolf903.github.io) My solutions to coding and scripting challenges that sharpen my logical and programming skills.
+- [Azure static website project](https://rudolfwebsite123.z1.web.core.windows.net/) My deployment and site in action. Live demo.
 
 ## 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/khutso-mabelane-1a1703278)
