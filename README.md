@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Rudolf
+# 👋 Hi, I’m Khutso Rudolf Mabelane
 
 🎓 I’m currently pursuing a Diploma in Network Systems at Boston City Campus  
 💻 I’m passionate about cybersecurity, cloud computing & IT auditing  
