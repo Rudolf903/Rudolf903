@@ -1,6 +1,6 @@
 #  Hi, I’m Khutso Rudolf Mabelane
 
-I’m currently pursuing a Diploma in Network Systems at Boston City Campus  
+I’m currently pursuing a Diploma in Network Systems at Boston City Campus, I am a third year student.  
 I’m passionate about cybersecurity, cloud computing & IT auditing  
 This profile showcases my projects: from cloud labs to ethical hacking  
 Check out my portfolio: [rudolf903.github.io](https://rudolf903.github.io)
@@ -19,3 +19,7 @@ Check out my portfolio: [rudolf903.github.io](https://rudolf903.github.io)
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/khutso-mabelane-1a1703278)
 - [GitHub](https://github.com/Rudolf903)
+- [Email personal](khutsomabelane903@gmail.com)
+- [Email KRM Tech Solutions](Khutsokrmtechsolution1@gmail.com)
+- [Whatsapp personal](0655917416)
+- [Whatsapp KRM Tech Solutions](0680599923)
