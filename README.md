@@ -6,7 +6,7 @@ This profile showcases my projects: from cloud labs to ethical hacking
 Check out my portfolio: [rudolf903.github.io](https://rudolf903.github.io)
 
 ##  Tools & Technologies
-- **Cloud:** Azure, GitHub Pages
+- **Cloud:** Azure, GitHub Pages, AWS Cloud
 - **Security:** TryHackMe, Hack The Box
 - **Languages:** Java, Bash
 - **Networking:** Cisco, VirtualBox, Linux
@@ -18,7 +18,7 @@ Check out my portfolio: [rudolf903.github.io](https://rudolf903.github.io)
 
 ##  Badges and certificates
 - [AWS Educate Introduction to Cloud 101](https://www.credly.com/badges/a9dc0a09-8345-4221-a36a-031d82dc80a1/public_url) My introduction to AWS cloud.
-- 
+
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/khutso-mabelane-1a1703278)
