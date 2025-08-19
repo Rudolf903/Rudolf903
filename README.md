@@ -13,7 +13,6 @@ This profile showcases my projects: from cloud labs to ethical hacking
 
 ## Featured Projects
 - [Cloud Lab Projects](https://github.com/Rudolf903/cloud-lab-projects) Hands-on experiments exploring cloud technologies, networking, and infrastructure concepts.
-- [HackersRank](https://rudolf903.github.io) My solutions to coding and scripting challenges that sharpen my logical and programming skills.
 - [Azure static website project](https://github.com/Rudolf903/azure-static-portfolio-hosting) My deployment and site in action. Live demo.
 
 ##  Badges and certificates
