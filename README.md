@@ -17,7 +17,8 @@ Check out my portfolio: [rudolf903.github.io](https://rudolf903.github.io)
 - [Azure static website project](https://github.com/Rudolf903/azure-static-portfolio-hosting) My deployment and site in action. Live demo.
 
 ##  Badges and certificates
-- [AWS Educate Introduction to Cloud 101](https://www.credly.com/badges/a9dc0a09-8345-4221-a36a-031d82dc80a1/public_url) My introduction to AWS cloud.
+- [AWS Educate Introduction to Cloud 101](https://www.credly.com/badges/a9dc0a09-8345-4221-a36a-031d82dc80a1/public_url)
+- [AWS Educate Getting Started with Storage](https://www.credly.com/badges/db54b579-fa84-490b-b29c-437cc323feb7/public_url) 
 
 
 ## Connect with me
