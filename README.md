@@ -3,7 +3,7 @@
 I’m currently pursuing a Diploma in Network Systems at Boston City Campus. I am a third-year student.  
 I’m passionate about cybersecurity, cloud computing & IT auditing  
 This profile showcases my projects: from cloud labs to ethical hacking  
-Check out my portfolio: [rudolf903.github.io](https://rudolf903.github.io)
+
 
 ##  Tools & Technologies
 - **Cloud:** Azure, GitHub Pages, AWS Cloud
