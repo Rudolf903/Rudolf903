@@ -1,8 +1,8 @@
 #  Hi, I’m Khutso Rudolf Mabelane
 
-I’m currently pursuing a Diploma in Network Systems at Boston City Campus. I am a third-year student.  
-I’m passionate about cybersecurity, cloud computing & IT auditing  
-This profile showcases my projects: from cloud labs to ethical hacking  
+I’m a final-year Diploma student in **Network Systems** at Boston City Campus.  
+I’m passionate about **cybersecurity, cloud computing,IT auditing and networking.**  
+Here you'll find projects and learning journey: from **cloud labs to ethical hacking**  
 
 
 ##  Tools & Technologies
@@ -13,9 +13,9 @@ This profile showcases my projects: from cloud labs to ethical hacking
 
 ## Featured Projects
 - [Cloud Lab Projects](https://github.com/Rudolf903/cloud-lab-projects) Hands-on experiments exploring cloud technologies, networking, and infrastructure concepts.
-- [Azure static website project](https://github.com/Rudolf903/azure-static-portfolio-hosting) My deployment and site in action. Live demo.
+- [Azure static website project](https://github.com/Rudolf903/azure-static-portfolio-hosting) My deployment and site in action. With demo.
 
-##  Badges and certificates
+##  Badges & certificates
 - [AWS Educate Introduction to Cloud 101](https://www.credly.com/badges/a9dc0a09-8345-4221-a36a-031d82dc80a1/public_url)
 - [AWS Educate Getting Started with Storage](https://www.credly.com/badges/db54b579-fa84-490b-b29c-437cc323feb7/public_url)
 - [AWS Educate Getting Started with Compute](https://www.credly.com/badges/548c94b8-3c87-4cc2-8fe5-fd2dd470c305/public_url)
