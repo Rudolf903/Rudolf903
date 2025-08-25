@@ -20,6 +20,7 @@ Here you'll find projects and learning journey: from **cloud labs to ethical hac
 - [AWS Educate Getting Started with Storage](https://www.credly.com/badges/db54b579-fa84-490b-b29c-437cc323feb7/public_url)
 - [AWS Educate Getting Started with Compute](https://www.credly.com/badges/548c94b8-3c87-4cc2-8fe5-fd2dd470c305/public_url)
 - [AWS Educate Getting Started with Networking](https://www.credly.com/badges/160a7a8a-84ea-4ce5-b44a-870c8c15efba/public_url)
+- [AWS Educate Getting Started with Databases](https://www.credly.com/badges/3ee6601f-902f-4a7c-abf5-23c07620c461/public_url)
 
 
 ## Connect with me
