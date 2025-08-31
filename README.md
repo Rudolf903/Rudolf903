@@ -23,6 +23,7 @@ Here you'll find projects and learning journey: from **cloud labs to ethical hac
 - [AWS Educate Getting Started with Databases](https://www.credly.com/badges/3ee6601f-902f-4a7c-abf5-23c07620c461/public_url)
 - [AWS Educate Getting Started with Cloud Ops](https://www.credly.com/badges/f2b8b36d-d2bd-447f-a67b-f30313544655/public_url)
 - [AWS Educate Getting Started with Security](https://www.credly.com/badges/2667de39-cb10-4673-8dc4-d26a704f4f33/public_url)
+- [AWS Educate Getting Started with Serverless](https://www.credly.com/badges/fcbc6c4c-6e36-495b-b398-1937f71f12ab/public_url)
 
 
 ## Connect with me
