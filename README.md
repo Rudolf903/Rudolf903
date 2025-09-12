@@ -29,6 +29,8 @@ Here you'll find projects and learning journey: from **cloud labs to ethical hac
 - [Explore core data concepts](https://learn.microsoft.com/api/achievements/share/en-us/KhutsoRudolf-7808/3A63FGPH?sharingId=792150AD80D3A5B4)
 - [Explore data role and services](https://learn.microsoft.com/api/achievements/share/en-us/KhutsoRudolf-7808/2DA4F6LV?sharingId=792150AD80D3A5B4)
 - [Explore fundamental relational data concepts](https://learn.microsoft.com/api/achievements/share/en-us/KhutsoRudolf-7808/PLMFPX54?sharingId=792150AD80D3A5B4)
+- [Introduction to Microsoft Azure Data relational data in Azure](https://learn.microsoft.com/api/achievements/share/en-us/KhutsoRudolf-7808/E5M4GU9P?sharingId=792150AD80D3A5B4)
+- [Explore relational database services in Azure](https://learn.microsoft.com/api/achievements/share/en-us/KhutsoRudolf-7808/ZBAVJLL2?sharingId=792150AD80D3A5B4)
 
 
 ## Connect with me
