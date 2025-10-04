@@ -26,6 +26,7 @@ Here you'll find projects and learning journey: from **cloud labs to ethical hac
 - [AWS Educate Getting Started with Security](https://www.credly.com/badges/2667de39-cb10-4673-8dc4-d26a704f4f33/public_url)
 - [AWS Educate Getting Started with Serverless](https://www.credly.com/badges/fcbc6c4c-6e36-495b-b398-1937f71f12ab/public_url)
 - [AWS Educate Machine Learning Foundations - Training Badge](https://www.credly.com/badges/ff4ba276-b4d3-4d66-a773-f3cb2abe11b9/public_url)
+- [AWS Educate Web Builder - Training Badge](https://www.credly.com/badges/d5dd7ab1-0b49-45f4-a1a9-93f55b46d118/public_url)
 ### Microsoft
 - [Explore core data concepts](https://learn.microsoft.com/api/achievements/share/en-us/KhutsoRudolf-7808/3A63FGPH?sharingId=792150AD80D3A5B4)
 - [Explore data role and services](https://learn.microsoft.com/api/achievements/share/en-us/KhutsoRudolf-7808/2DA4F6LV?sharingId=792150AD80D3A5B4)
