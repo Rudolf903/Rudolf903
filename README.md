@@ -1,15 +1,16 @@
 #  Hi, I’m Khutso Rudolf Mabelane
 
-I’m a final-year Diploma student in **Network Systems** at Boston City Campus.  
-I’m passionate about **cybersecurity, cloud computing,IT auditing and networking.**  
-Here you'll find projects and learning journey: from **cloud labs to ethical hacking**  
+I’m a Network Systems graduate with a growing interest in IT Support, System Support, Cloud Computing, and Networking. My academic projects and self-directed learning include Azure labs, Linux fundamentals, network configuration exercises, and introductory cybersecurity practice.
+
+This GitHub showcases my learning journey — from cloud-based deployments to networking fundamentals and system administration concepts. 
 
 
 ##  Tools & Technologies
 - **Cloud:** Azure, GitHub Pages, AWS Cloud
-- **Security:** TryHackMe, Hack The Box
-- **Languages:** Java, Bash
-- **Networking:** Cisco, VirtualBox, Linux
+- **Security:** TryHackMe
+- **Languages:** Java
+- **Operational Systems:** Linu, Windows
+- **Networking:** Cisco concepts, VirtualBox environments
 
 ## Featured Projects
 - [Cloud Lab Projects](https://github.com/Rudolf903/cloud-lab-projects) Hands-on experiments exploring cloud technologies, networking, and infrastructure concepts.
@@ -39,5 +40,4 @@ Here you'll find projects and learning journey: from **cloud labs to ethical hac
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/khutso-mabelane-1a1703278)
 - [GitHub](https://github.com/Rudolf903)
-- [Whatsapp personal](https://wa.me/qr/JRXM46CEMZTKB1)
-- [Whatsapp KRM Tech Solutions](https://wa.me/message/IKWOPIMIHBO7A1)
+
