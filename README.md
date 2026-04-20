@@ -1,6 +1,6 @@
 #  Hi, I’m Khutso Rudolf Mabelane
 
-I’m a Network Systems graduate with a growing interest in IT Support, System Support, Cloud Computing, and Networking. My academic projects and self-directed learning include Azure labs, Linux fundamentals, network configuration exercises, and introductory cybersecurity practice.
+I’m a Network Systems graduate with a growing interest in IT Support, System Support, Cloud Computing, and Networking. Currently an IT intern at TK Vhakani Projects, hosted by the Mashabela group of companies. My academic projects and self-directed learning include Azure labs, Linux fundamentals, network configuration exercises, and introductory cybersecurity practice.
 
 This GitHub showcases my learning journey — from cloud-based deployments to networking fundamentals and system administration concepts. 
 
@@ -9,7 +9,7 @@ This GitHub showcases my learning journey — from cloud-based deployments to ne
 - **Cloud:** Azure, GitHub Pages, AWS Cloud
 - **Security:** TryHackMe, Security+
 - **Coding Languages:** Java
-- **Operational Systems:** Linu, Windows
+- **Operational Systems:** Linux, Windows
 - **Networking:** Cisco concepts, VirtualBox environments
 
 ## Featured Projects
