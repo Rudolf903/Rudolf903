@@ -7,8 +7,8 @@ This GitHub showcases my learning journey — from cloud-based deployments to ne
 
 ##  Tools & Technologies
 - **Cloud:** Azure, GitHub Pages, AWS Cloud
-- **Security:** TryHackMe
-- **Languages:** Java
+- **Security:** TryHackMe, Security+
+- **Coding Languages:** Java
 - **Operational Systems:** Linu, Windows
 - **Networking:** Cisco concepts, VirtualBox environments
 
